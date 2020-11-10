@@ -8,7 +8,7 @@ A few tidbits about me:
 - 🌱 I’m currently learning ... data science
 - 👯 I’m looking to collaborate on ... data science
 - 🤔 I’m looking for help with ... life
-- 💬 Ask me about ... anything, but I don't promise to know it.
+- 💬 Ask me about ... anything, because I have Google!
 - 📫 Send me a message on: ... [LinkedIn](https://www.linkedin.com/in/kristine-w-lambdads/)
 - 😄 Pronouns: ... she/her
 - 🐶 Fun fact: ... my dog's name is Obiwan!
