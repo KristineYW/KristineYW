@@ -4,7 +4,7 @@ Hello and welcome to my GitHub! I'm Kristine, and I love learning! I love all as
 
 A few tidbits about me:
 
-- 🔭 I’m currently working on ... Human Rights First police brutality mapping!
+- 🔭 I’m currently working on ... up-skilling my data science and Python chops!
 - 🌱 I’m currently learning ... data science
 - 👯 I’m looking to collaborate on ... data science
 - 🤔 I’m looking for help with ... life
