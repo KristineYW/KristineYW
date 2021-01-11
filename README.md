@@ -12,4 +12,5 @@ A few tidbits about me:
 - 📫 Send me a message on: ... [LinkedIn](https://www.linkedin.com/in/kristine-w-lambdads/)
 - 😄 Pronouns: ... she/her
 - 🐶 Fun fact: ... my dog's name is Obiwan!
+- 📚 Ongoing 2021 Reading list: Range (David Epstein), Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are (Seth Stephens-Davidowitz)
 - 💻 Skills I have: Python | Pandas | Numpy | SQL | Scikit-Learn | Keras | Tensorflow | Data Analysis | Predictive Modeling | Data Visualization | Seaborn | Matplotlib | Plotly | Statistical Analysis | Predictive Analytics | Legal Analysis
